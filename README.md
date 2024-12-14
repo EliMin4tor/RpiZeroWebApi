@@ -7,7 +7,7 @@ wget -O - https://raw.githubusercontent.com/pjgpetecodes/dotnet8pi/main/install.
 
 reboot
 ### Install package
-et add package System.Device.Gpio
+dotnet add package System.Device.Gpio
 
 ## Examples
 example to control pins in Program.cs
